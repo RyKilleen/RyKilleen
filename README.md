@@ -1,7 +1,7 @@
 
 ## Hi, I’m Ryan!👋🏻
 
-I've been `:focus`ing on the front-end since 2014 and broadening my horizons ever since. Life-long tinkerer.
+I've been `:focus`ing on Frontend engineering since 2014 and broadening my horizons ever since. Life-long tinkerer.
 Learn more at [RyanKilleen.com](https://ryankilleen.com)
 
 ### I love working with ⚒️
