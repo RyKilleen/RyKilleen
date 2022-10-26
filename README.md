@@ -1,16 +1,23 @@
 
-- 👋 Hi, I’m @RyKilleen !
-- 👀 I’m interested in ...
+## Hi, I’m Ryan!👋🏻
+
+I've been `:focus`ing on the front-end since 2014 and broadening my horizons ever since. Life-long tinkerer.
+Learn more at [RyanKilleen.com](https://ryankilleen.com)
+
+### I love working with ⚒️
   - React
   - TypeScript
+  - Next.js
   - Rust
-  - Making things better
-- 🌱 I’m currently learning ...
-  - Rust / [Tauri](https://tauri.studio)
+  - GraphQL
+  - Prisma
+
+### I'm exploring 🌱
+  - [Tauri](https://tauri.studio)
   - Cloudflare Workers
   - Remix.run
 
-Learn more on my site, [RyanKilleen.com](https://ryankilleen.com)
+
 
 <!---
 RyKilleen/RyKilleen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
