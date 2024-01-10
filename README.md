@@ -5,9 +5,10 @@ I've been `:focus`ing on Frontend engineering since 2014 and broadening my horiz
 Learn more at [RyanKilleen.com](https://ryankilleen.com)
 
 ### I love working with ⚒️
-  - React
   - TypeScript
+  - React
   - Next.js
+  - tRPC
   - Rust
   - GraphQL
   - Prisma
